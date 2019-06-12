@@ -21,7 +21,7 @@ git checkout start
 
 ## 📖 Read the tutorial
 
-(coming soon)
+Explanation of this tutorial is given in this article. [https://blog.codecareer.io/javascript-why-do-we-need-tests-cjwtjvaku004gjus1bjqw0b2t](https://blog.codecareer.io/javascript-why-do-we-need-tests-cjwtjvaku004gjus1bjqw0b2t)
 
 ## LICENSE
 
