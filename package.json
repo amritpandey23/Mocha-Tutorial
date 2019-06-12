@@ -1,0 +1,17 @@
+{
+  "name": "testing_with_mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon --exec mocha"
+  },
+  "keywords": [],
+  "author": "ap4gh <pandey.amrit@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "mocha": "^6.1.4",
+    "nodemon": "^1.19.1"
+  }
+}
