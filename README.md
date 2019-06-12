@@ -19,7 +19,7 @@ npm run tests
 git checkout start
 ```
 
-## Read the tutorial here
+## 📖 Read the tutorial
 
 (coming soon)
 
