@@ -1,8 +1,8 @@
 # Testing with Mocha ☕️
 
 ## 🤷‍ How to use this repo
-1. Fork it
-2. Clone it
+1. Fork it 
+2. Clone it from your fork or:
 ```
 git clone https://github.com/ap4gh/testing_with_mocha.git
 ```
