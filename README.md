@@ -1,5 +1,7 @@
 # Testing with Mocha ☕️
 
+Read the complete tutorial [here](https://blog.okape.co.in/posts/why-do-we-need-tests-2019-06-13/).
+
 ## 🤷‍ How to use this repo
 1. Fork it 
 2. Clone it from your fork or:
